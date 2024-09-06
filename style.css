@@ -1,0 +1,167 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 1200px;
+    padding: 0 15px;
+}
+
+.body {
+    background: #F3F2F7;
+
+
+}
+
+.pro-decor {
+    display: flex;
+    gap: 50px;
+    align-items: center;
+}
+
+.nav-main {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+.nav-number {
+    display: flex;
+    gap: 15px;
+    text-align: center;
+    align-items: center;
+    margin-left: 55px;
+}
+
+.num-nav {}
+
+.icon-nav {
+    display: flex;
+    text-align: center;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+}
+
+.fotoz {
+    background-color: #299AB3;
+    flex-direction: column;
+    display: flex;
+    width: 470px;
+    padding-left: 30px;
+    padding-top: 20px;
+}
+
+.sharik {
+    margin-top: 70px;
+}
+
+.btn-pod {
+    border-radius: 50px;
+    background: #FFFFFF;
+    text-align: center;
+    padding: 10px;
+    width: 106px;
+    margin-top: 250px;
+}
+
+.blue {
+    display: flex;
+    border-radius: 20px;
+}
+.shari{
+    flex-direction: column;
+    display: flex;
+    gap: 20px;
+    color: white;
+}
+
+.card-1 {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.cards{
+    display: flex;
+    gap: 40px;
+    justify-content: space-between;
+}
+
+
+.main-cards{
+    margin-top: 100px;
+}
+
+ 
+.half-2{
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 20px;
+}
+
+
+
+.fotoz1{
+    background: #299AB3;
+    width: 470px;
+    padding-left: 30px;
+    padding-top: 20px;
+    input{
+        padding: 20px;
+        margin-top: 15px;
+        display: flex;
+     
+        flex-direction: column;
+    }
+}
+
+
+
+
+
+
+
+
+.cid-card{
+    background: #FFFFFF;
+
+    gap: 15px;
+    h1{
+        margin-top: 10px;
+        padding-bottom: 3px;
+    }
+    p{
+        padding-bottom: 10px;
+    }
+    button{
+        padding: 15px;
+        width: 194px;
+        border-radius: 12px;
+        background: #299AB3;
+
+    }
+}
+
+.cids{
+    margin-top: 100px;
+}
+
+.liwe{
+    display: flex;
+    /* flex-direction: column; */
+    gap: 30px;
+}
+.q{
+    flex-direction: column;
+    gap: 30px;
+}
+
+
+
+
